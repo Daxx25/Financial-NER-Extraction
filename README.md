@@ -115,7 +115,6 @@ NER-Project/
 ├── ner_training_spacy.ipynb      # Notebook for SpaCy training
 ├── ner_evaluation.ipynb          # Evaluation metrics
 ├── README.md                     # You’re here!
-```
 
 ---
 
@@ -148,9 +147,8 @@ NER-Project/
 
 > *"The best way to understand language is to teach a machine to recognize it."*
 
-```
 
----
 
-Would you like a `requirements.txt` or a Colab-ready version of this project too?
-```
+
+
+
